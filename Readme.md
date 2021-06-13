@@ -1,0 +1,3 @@
+•	Game Name: -Many in One game.
+•	Starting of the Game: A Form to enter any name. Elements there are: A blank, A submit button, Title.
+•	When the game starts: A Form would be submitted by the player with his name then there 	would come the next game state with tabs of two different games. The first game would be a racing game and second would be a puzzle game. When the player opens the first tab he would move on to his game tab with a racing track and bikes. The player’s car will have the name of the player written above the car. Now, if he open the second tab he would move to the other game tab with the puzzle which he can solve. Both the game tabs would have a menu on which if he clicks a dialog box opens having the option of restart, resume and quit.
